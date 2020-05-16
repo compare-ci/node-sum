@@ -1,22 +1,22 @@
 {
-    "name": "test sum",
-    "version": "1.0.0",
-    "description": "A test using node.js",
-    "main": "app.js",
-    "scripts": {
-      "test": "jest test --colors"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/compare-ci/node-sum.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/compare-ci/node-sum/issues"
-    },
-    "homepage": "https://github.com/compare-ci/node-sum#readme",
-    "dependencies": {
-      "jest": "^24.8.0"
-    }
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "A test using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest test --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compare-ci/node-sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compare-ci/node-sum/issues"
+  },
+  "homepage": "https://github.com/compare-ci/node-sum#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
   }
+}

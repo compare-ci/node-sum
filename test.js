@@ -1,8 +1,8 @@
-const {sum} = require("./app.js");
+const {add} = require("./app.js");
 
 describe("Test", () => {
-    test("sum", async (done) => {
-        expect(await sum(1, 2)).toBe(3);
+    test("addition", async (done) => {
+        expect(await add(1, 2)).toBe(3);
         done();
     })
 });

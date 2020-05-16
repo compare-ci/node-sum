@@ -1,5 +1,5 @@
-async function sum(x, y) {
+async function add(x, y) {
     return x + y;
 };
 
-module.exports = {sum};
+module.exports = {add};

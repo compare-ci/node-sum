@@ -1,4 +1,4 @@
-const {add} = require("./app.js");
+var {add} = require("./app.js");
 
 describe("Test", () => {
     test("addition", async (done) => {
